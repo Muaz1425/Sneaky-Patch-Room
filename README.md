@@ -33,9 +33,11 @@ Using the command "modinfo spatch", we can display metadata of the kernel module
 Signer is shows that it legitimate signed by the trust entitity, blank signer shows that it from unknown origin and can be alarming for secure environment especially when secure boot is enabled which systems only allowed trusted signed kernel modules to run.
 
 spatch module
+
 ![App Screenshot](https://github.com/Muaz1425/Sneaky-Patch-Room/blob/main/Images/SneakyPatchCommand2.1.png)
 
 stp module
+
 ![App Screenshot](https://github.com/Muaz1425/Sneaky-Patch-Room/blob/main/Images/SneakyPatchCommand2.2.png)
 
 From signer, we can see spatch signer is empty compare to stp which have a signer. Since spatch doesn't have signer, we can further investigate the spatch.

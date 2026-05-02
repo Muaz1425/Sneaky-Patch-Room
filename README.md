@@ -4,7 +4,7 @@
 Writeup about TryHackme Sneaky Patch Challenge Room
 
 [Diffuculty: Easy]
-[Blue Team]
+[<span style="color:blue;">Blue Team</span>]
 
 https://tryhackme.com/room/hfb1sneakypatch
 
